@@ -56,7 +56,7 @@ buildings = [
     ]
 ```
 
-Valide `shapeId`s are as follows:
+Valid `shapeId`s are as follows:
 - `cylinder`
 - `cuboid`
 - `square_pyramid`
